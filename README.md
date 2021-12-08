@@ -1,7 +1,7 @@
 # openCV-Center-of-Contour
 Compute the center of a contour/shape region using openCV and Python
 
-In this Project, I am trying to computer the Center of Contour, also called centroid, for a variety of shapes that are not perfect. In other words, the shapes we are tring to compute the centroid for are human drawn that is why rectangles are not perfectly rectangle and circles are not perfectly circles and so on.
+In this Project, I am trying to compute the Center of Contour, also called centroid, for a variety of shapes that are not perfect. In other words, the shapes I am tring to compute the centroid for are human drawn that is why rectangles are not perfectly rectangle and circles are not perfectly circles and so on.
 
 The below image illustrates this.
 
