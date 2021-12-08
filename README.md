@@ -21,3 +21,8 @@ For this, I will do the following image pre-processing:
 
 3- Binarize the Image ---> using thresholding.
 
+The Below Image Shows The output of the project
+
+![Screenshot from 2021-12-08 18-07-19](https://user-images.githubusercontent.com/87881560/145242504-e2c9e64b-a074-418c-b586-ee56e262dd0d.png)
+
+
